@@ -1,0 +1,5 @@
+C:\Users\osipov.pv\Documents\Visual Studio 2013\Projects\SSISGeneration.DatFlow\bin\Debug\SSISGeneration.DataFlow.dll
+C:\Users\osipov.pv\Documents\Visual Studio 2013\Projects\SSISGeneration.DatFlow\bin\Debug\SSISGeneration.DataFlow.pdb
+C:\Users\osipov.pv\Documents\Visual Studio 2013\Projects\SSISGeneration.DatFlow\obj\Debug\SSISGeneration.DataFlow.dll
+C:\Users\osipov.pv\Documents\Visual Studio 2013\Projects\SSISGeneration.DatFlow\obj\Debug\SSISGeneration.DataFlow.pdb
+C:\Users\osipov.pv\Documents\Visual Studio 2013\Projects\SSISGeneration.DatFlow\obj\Debug\SSISGeneration.DatFlow.csprojResolveAssemblyReference.cache
